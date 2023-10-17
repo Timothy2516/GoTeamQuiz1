@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "1.0.0",
   "description": "My prime Nuxt.js project",
-  "author": "marko",
+  "author": "tim",
   "private": true,
   "scripts": {
     "dev": "nuxt",
